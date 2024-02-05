@@ -14,7 +14,7 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-KAUDA JIMH
+KAUDA JIMOH
 in/kauda-jimoh | @Fatherofcharity
 
 
